@@ -11,3 +11,72 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dropdown-container {
+  background-color: #dedddd; 
+  padding: 20px; 
+  text-align: center; 
+  width: 100%; 
+  box-sizing: border-box;
+}
+
+.dropdown {
+  display: inline-block; 
+  margin: 0 auto; 
+}
+
+.dropdown-label {
+  margin-right: 10px; 
+  font-weight: bold; 
+}
+
+.dropdown-select {
+  padding: 5px 10px; 
+  font-size: 16px; 
+}
+.bar-chart-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+
+}
+.correlation-matrix-container{
+  margin-left: 25px;
+  display: flex;
+  align-items: flex-start;
+}
+.graphs{
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+  flex-wrap: wrap; 
+}
+.scatterplot-container{
+  width: 1110px;
+  height: 510px;
+  border: 3px solid #e3e2e275;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.radio-btns{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+}
+.legend-axis text {
+  font-size: 12px;
+  font-family: Arial;
+}
+
+
+.bar-chart-container, .correlation-matrix-container {
+  border: 3px solid #e3e2e275; 
+  padding: 20px; 
+  margin-bottom: 20px; 
+  width: 500px;
+  height: 400px;
+}
