@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/d3-app/static/css/main.4936f880.css",
+    "main.js": "/d3-app/static/js/main.08f68017.js",
+    "static/js/453.ff6ace29.chunk.js": "/d3-app/static/js/453.ff6ace29.chunk.js",
+    "static/media/tips.csv": "/d3-app/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/d3-app/index.html",
+    "main.4936f880.css.map": "/d3-app/static/css/main.4936f880.css.map",
+    "main.08f68017.js.map": "/d3-app/static/js/main.08f68017.js.map",
+    "453.ff6ace29.chunk.js.map": "/d3-app/static/js/453.ff6ace29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4936f880.css",
+    "static/js/main.08f68017.js"
+  ]
+}
